@@ -11,13 +11,16 @@ hr {
   text-align: left;
 }
 
+.loud {
+  color: red;
+}
 .pad-left {
   padding-left: 10px;
 }
 
 .web-dev {
   font-style: italic;
-  font-size: large;
+  font-size: 15px;
 }
 
 .address {
@@ -29,4 +32,12 @@ hr {
   margin: 10px;
   background-color: lightgrey;
   padding: 10px;
+}
+
+.sidebar {
+  float: right;
+  width: 50px;
+  background-color: darkgrey;
+  color: white;
+  height: 100%;
 }
