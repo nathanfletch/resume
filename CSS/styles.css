@@ -1,0 +1,32 @@
+body {
+  background-color: lightslategrey;
+}
+
+h1 {
+  text-align: center;
+}
+
+hr {
+  width: 95%;
+  text-align: left;
+}
+
+.pad-left {
+  padding-left: 10px;
+}
+
+.web-dev {
+  font-style: italic;
+  font-size: large;
+}
+
+.address {
+  font-style: italic;
+  text-align: center;
+}
+
+.section {
+  margin: 10px;
+  background-color: lightgrey;
+  padding: 10px;
+}
